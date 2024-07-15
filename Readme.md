@@ -111,3 +111,5 @@ toast.success("Message sent!");
 - [Rohan Kumar Mahato](https://github.com/RohanKrMahato)
 
 Happy coding! 🎉
+```
+Feel free to adjust the content as per your project specifics.
