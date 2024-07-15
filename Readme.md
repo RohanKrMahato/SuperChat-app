@@ -90,26 +90,3 @@ const useChatStore = create(set => ({
   addMessage: (message) => set(state => ({ messages: [...state.messages, message] })),
 }));
 
-export default useChatStore;
-```
-
-### Toastify
-
-For notifications, Toastify can be used as follows:
-
-```javascript
-// Example usage in a component
-import { toast } from 'react-toastify';
-import 'react-toastify/dist/ReactToastify.css';
-
-toast.success("Message sent!");
-```
-
-## Contributors
-
-- [Pihul Lalotra](https://github.com/Pihul13)
-- [Rohan Kumar Mahato](https://github.com/RohanKrMahato)
-
-Happy coding! 🎉
-```
-Feel free to adjust the content as per your project specifics.
